@@ -5,6 +5,6 @@ function upDate(previewPic) {
 }
 
 function unDo() {
-  document.getElementById('image').innerHTML = "Hover over any certificate below to display here.";
+  document.getElementById('image').innerHTML = "Hover over any Certificate below to display here.";
   document.getElementById('image').style.backgroundImage = "url('')";
 }
